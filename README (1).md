@@ -26,10 +26,14 @@ Exploring the ethnic group distribution and its connection with exam scores.
 The project utilizes the following Python libraries for data analysis and visualization:
 
 NumPy: For efficient numerical computations.
+
 Pandas: For data cleaning, manipulation, and analysis.
+
 Matplotlib: For creating static visualizations.
+
 Seaborn: For generating advanced and aesthetically pleasing visualizations.
-Features and Methods
+
+# Features and Methods
 
 • Data Cleaning and Preparation
 
